@@ -1,0 +1,26 @@
+Theme
+  - Deep Ocean Theme
+  - Material Icon Theme
+
+Flutter Plugins
+  - Dart
+  - Flutter
+  - Flutter Color
+  - Pubspec Assist
+  - Remove Comments
+ 
+React and Node Plugins
+  - CSS Modules
+  - Prettier - Code formatter
+  - ESLint
+  - Highlight Matching Tag
+  - vscode-styled-components
+
+Others
+  - Power Mode
+  - Bracket Pair Colorizer 2
+  - Code Snap
+  - Color Highlight
+  - Error Lens
+  - GitLens — Git supercharged
+  - Tabnine
