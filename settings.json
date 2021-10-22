@@ -1,0 +1,118 @@
+{
+  // Vscode Settings
+  "workbench.activityBar.visible": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "explorer.compactFolders": false,
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 20,
+  "editor.tabSize": 2,
+  "editor.wordWrapColumn": 1000,
+  "zenMode.hideLineNumbers": false,
+  "search.showLineNumbers": true,
+  "editor.renderLineHighlight": "all",
+  "explorer.confirmDragAndDrop": false,
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": false,
+  "window.zoomLevel": 1,
+  "editor.cursorStyle": "line-thin",
+  "editor.minimap.enabled": false,
+  "update.mode": "none",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.rulers": [80],
+  
+  // Font Settings
+  "editor.fontFamily": "Jetbrains Mono",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": false,
+  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.fontSize": 14,
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "selection",
+  
+  // JavaScript & Typescript Settings
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "typescript": "tsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  
+  // Dart Settings
+  "dart.showMainCodeLens": false,
+  "dart.updateImportsOnRename": true,
+  "dart.flutterHotRestartOnSave": false,
+  "dart.previewFlutterUiGuides": true,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false
+  },
+  
+  // Git Settings
+  "git.enabled": true,
+  "git.decorations.enabled": true,
+
+  // Plugins Settings
+  "material-icon-theme.files.associations": {
+    // Files
+    "*.controller.ts": "nest-controller",
+    "*.module.ts": "nest-module",
+    "*.service.ts": "nest-service",
+    "*.middleware.ts": "nest-middleware",
+    "*.filter.ts": "nest-filter",
+    "*.pipe.ts": "nest-pipe",
+    "*.gateway.ts": "nest-gateway",
+    "*.decorator.ts": "nest-decorator",
+    "*.resolver.ts": "nest-resolver",
+    "*.input.ts": "nest-input",
+    "*.guard.ts": "nest-guard",
+    ".metadata": "vscode",
+    ".packages": "vscode",
+    "*.test.dart": "test-ts",
+  },
+  "material-icon-theme.folders.associations": {
+    // Folders
+    "migrations": "tools",
+    "modules": "stack",
+    "repositories": "aws",
+    "dto": "less"
+  },
+  "terminal.integrated.fontFamily": "Jetbrains Mono",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "name": {
+        "surround": "#fff",
+      }
+    }
+  },
+  "tabnine.experimentalAutoImports": true,
+  "workbench.colorTheme": "Deep Ocean - Blue",
+  "workbench.iconTheme": "material-icon-theme",
+  "powermode.enabled": true,
+  "powermode.presets": "flames",
+  "dart.previewLsp": true,
+  "dart.openDevTools": "flutter"
+}
